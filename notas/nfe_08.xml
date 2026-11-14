@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nfeProc xmlns="http://www.portalfiscal.inf.br/nfe" versao="4.00"><NFe><infNFe Id="NFe00000000000000000000000000000000000000000008" versao="4.00">
+<ide><nNF>1008</nNF><dhEmi>2026-11-04T10:30:00-03:00</dhEmi></ide>
+<emit><CNPJ>11222333000144</CNPJ><xNome>Padaria Pão Quente Ltda</xNome></emit>
+<det nItem="1"><prod><cProd>001</cProd><xProd>Arroz 5kg</xProd><NCM>10063021</NCM><qCom>9.0000</qCom><vUnCom>27.90</vUnCom><vProd>251.10</vProd></prod></det>
+<det nItem="2"><prod><cProd>002</cProd><xProd>Pão francês kg</xProd><NCM>19052090</NCM><qCom>10.0000</qCom><vUnCom>18.50</vUnCom><vProd>185.00</vProd></prod></det>
+<det nItem="3"><prod><cProd>003</cProd><xProd>Filtro de óleo</xProd><NCM>84212300</NCM><qCom>9.0000</qCom><vUnCom>42.00</vUnCom><vProd>378.00</vProd></prod></det>
+<total><ICMSTot><vProd>814.10</vProd><vICMS>138.40</vICMS><vNF>814.10</vNF></ICMSTot></total>
+</infNFe></NFe></nfeProc>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nfeProc xmlns="http://www.portalfiscal.inf.br/nfe" versao="4.00"><NFe><infNFe Id="NFe00000000000000000000000000000000000000000010" versao="4.00">
+<ide><nNF>1010</nNF><dhEmi>2026-11-09T10:30:00-03:00</dhEmi></ide>
+
+<det nItem="1"><prod><cProd>001</cProd><xProd>Pão francês kg</xProd><NCM>19052090</NCM><qCom>10.0000</qCom><vUnCom>18.50</vUnCom><vProd>185.00</vProd></prod></det>
+<det nItem="2"><prod><cProd>002</cProd><xProd>Caneta caixa 50un</xProd><NCM>96081000</NCM><qCom>4.0000</qCom><vUnCom>55.00</vUnCom><vProd>220.00</vProd></prod></det>
+<total><ICMSTot><vProd>405.00</vProd><vICMS>68.85</vICMS><vNF>405.00</vNF></ICMSTot></total>
+</infNFe></NFe></nfeProc>

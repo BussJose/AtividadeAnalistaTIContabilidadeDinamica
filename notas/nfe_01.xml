@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nfeProc xmlns="http://www.portalfiscal.inf.br/nfe" versao="4.00"><NFe><infNFe Id="NFe00000000000000000000000000000000000000000001" versao="4.00">
+<ide><nNF>1001</nNF><dhEmi>2026-08-05T10:30:00-03:00</dhEmi></ide>
+<emit><CNPJ>22333444000155</CNPJ><xNome>Mercado Bom Preço Ltda</xNome></emit>
+<det nItem="1"><prod><cProd>001</cProd><xProd>Arroz 5kg</xProd><NCM>10063021</NCM><qCom>7.0000</qCom><vUnCom>27.90</vUnCom><vProd>195.30</vProd></prod></det>
+<det nItem="2"><prod><cProd>002</cProd><xProd>Óleo motor 1L</xProd><NCM>27101932</NCM><qCom>1.0000</qCom><vUnCom>35.00</vUnCom><vProd>35.00</vProd></prod></det>
+<det nItem="3"><prod><cProd>003</cProd><xProd>Pão francês kg</xProd><NCM>19052090</NCM><qCom>9.0000</qCom><vUnCom>18.50</vUnCom><vProd>166.50</vProd></prod></det>
+<total><ICMSTot><vProd>396.80</vProd><vICMS>67.46</vICMS><vNF>396.80</vNF></ICMSTot></total>
+</infNFe></NFe></nfeProc>

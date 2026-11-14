@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nfeProc xmlns="http://www.portalfiscal.inf.br/nfe" versao="4.00"><NFe><infNFe Id="NFe00000000000000000000000000000000000000000003" versao="4.00">
+<ide><nNF>1003</nNF><dhEmi>2026-09-02T10:30:00-03:00</dhEmi></ide>
+<emit><CNPJ>44555666000177</CNPJ><xNome>Papelaria Central Ltda</xNome></emit>
+<det nItem="1"><prod><cProd>001</cProd><xProd>Pão francês kg</xProd><NCM>19052090</NCM><qCom>2.0000</qCom><vUnCom>18.50</vUnCom><vProd>37.00</vProd></prod></det>
+<det nItem="2"><prod><cProd>002</cProd><xProd>Resma papel A4</xProd><NCM>48025610</NCM><qCom>7.0000</qCom><vUnCom>29.90</vUnCom><vProd>209.30</vProd></prod></det>
+<total><ICMSTot><vProd>246.30</vProd><vICMS>41.87</vICMS><vNF>246.30</vNF></ICMSTot></total>
+</infNFe></NFe></nfeProc>

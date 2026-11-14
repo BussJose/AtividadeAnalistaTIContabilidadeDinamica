@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nfeProc xmlns="http://www.portalfiscal.inf.br/nfe" versao="4.00"><NFe><infNFe Id="NFe00000000000000000000000000000000000000000005" versao="4.00">
+<ide><nNF>1005</nNF><dhEmi>2026-10-01T10:30:00-03:00</dhEmi></ide>
+<emit><CNPJ>22333444000155</CNPJ><xNome>Mercado Bom Preço Ltda</xNome></emit>
+<det nItem="1"><prod><cProd>001</cProd><xProd>Caneta caixa 50un</xProd><NCM>96081000</NCM><qCom>2.0000</qCom><vUnCom>55.00</vUnCom><vProd>110.00</vProd></prod></det>
+<det nItem="2"><prod><cProd>002</cProd><xProd>Arroz 5kg</xProd><NCM>10063021</NCM><qCom>10.0000</qCom><vUnCom>27.90</vUnCom><vProd>279.00</vProd></prod></det>
+<total><ICMSTot><vProd>389.00</vProd><vICMS>66.13</vICMS><vNF>389.00</vNF></ICMSTot></total>
+</infNFe></NFe></nfeProc>
